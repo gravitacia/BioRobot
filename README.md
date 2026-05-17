@@ -28,9 +28,9 @@ You can also run the built executable directly (`BioRobot.exe`) from `bin/Debug/
 
 ### Options (analyze)
 
-- `--json` — export results as JSON
-- `-o <path>` — output file for JSON export
-- `--no-strings` — skip string extraction
+- `--json` - export results as JSON
+- `-o <path>` - output file for JSON export
+- `--no-strings` - skip string extraction
 
 ## Examples
 
