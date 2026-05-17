@@ -15,7 +15,7 @@ dotnet build
 dotnet run -- scan "C:\path\to\file.exe"
 ```
 
-You can also run the built executable directly (`BioRobot.exe`) from `bin/Debug/net8.0/`
+You can also run the built executable directly (`BioRobot.exe`)
 
 ## Commands
 
