@@ -51,4 +51,4 @@ BioRobot is provided for **educational and research purposes only**. You are res
 
 Analysis output (including risk scores, packer detection, and string extraction) is **heuristic** and may be incomplete or incorrect. Do not treat results as a definitive malware verdict or substitute for professional security tooling.
 
-This software is offered **as is**, without warranty of any kind. The author is not liable for any damage, data loss, or legal issues arising from the use or misuse of this project—including analysis of malicious files on systems that are not properly isolated.
+This software is offered **as is**, without warranty of any kind. The author is not liable for any damage, data loss, or legal issues arising from the use or misuse of this project,including analysis of malicious files on systems that are not properly isolated.
