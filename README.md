@@ -1,6 +1,6 @@
 # BioRobot
 
-A command-line tool for analyzing Windows PE binaries,I originally built this a while back and recently brought it back to life
+A command line tool for analyzing Windows PE binaries,I originally built this a while back and recently brought it back to life
 
 The name was inspired by [Kung Fu Junkie](https://www.youtube.com/watch?v=fFv-_bejYOQ).
 
